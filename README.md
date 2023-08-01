@@ -1,0 +1,2 @@
+# entailmate
+Your AI teammate
