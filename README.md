@@ -1,4 +1,4 @@
-# EntailMate: Your AI Teammate
+# EntailMate: Your AI Teammate (Beta)
 
 EntailMate is a Visual Studio Code (VS Code) extension designed to streamline your development workflow by providing intelligent code, libraries, and data aware documentation search and code generation capabilities. Equipped with advanced AI techniques, EntailMate acts as your AI teammate, ensuring your coding experience is efficient and intuitive.
 
@@ -6,15 +6,13 @@ EntailMate is a Visual Studio Code (VS Code) extension designed to streamline yo
 
 ## Features
 
-1. **Documentation Search**: EntailMate offers AI-powered smart documentation search to guide you through your coding journey. It understands the context and semantics of your project, hence delivering the most relevant search results.
+1. **Context-Aware Suggestions**: EntailMate keeps an eye on your project's libraries and data, ensuring the provided solutions are compatible with your project's specifications.
 
-2. **Code Generation**: EntailMate leverages AI models to generate code snippets tailored to your requirements, saving time and reducing the possibility of errors.
+2. **Tech Documentation Q&A**: EntailMate offers AI-powered smart documentation search to guide you through your coding journey.
 
-3. **Libraries & Data Awareness**: EntailMate keeps an eye on your project's libraries and data, ensuring the provided solutions are compatible with your project's specifications.
+3. **Code Generation**: EntailMate leverages AI models to generate code snippets tailored to your requirements, saving time and reducing the possibility of errors.
 
-4. **Context-Sensitive Suggestions**: With its understanding of your codebase, EntailMate provides you with valuable context-sensitive suggestions that can make your coding more efficient.
-
-5. **Interoperability**: Works seamlessly with a wide array of languages and frameworks.
+4. **Interoperability**: Works seamlessly with a wide array of languages and frameworks.
 
 ---
 
